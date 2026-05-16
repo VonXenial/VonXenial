@@ -63,8 +63,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VonXenial&show_icons=true&theme=tokyonight" alt="Estadísticas de VonXenial" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VonXenial&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=VonXenial&show_icons=true&theme=tokyonight" alt="Estadísticas de VonXenial" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VonXenial&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
