@@ -15,7 +15,7 @@
 - 🏥 Experiencia práctica en desarrollo y mantenimiento de sistemas en entornos críticos (Hospital Dr. Franco Ravera Zunino).
 - 🧠 Desarrollador de un **Sistema de Transcripción Inteligente con IA local** (Proyecto de Título destacado).
 - 🎮 Creador y desarrollador en proyectos de videojuegos como **HackWars**.
-- 🛡️ Conocimientos en redes, modelo OSI y prácticas de Hacking Ético en Kali Linux.
+- 🛡️ Conocimientos en redes, modelo OSI y prácticas de Hacking Ético en distribuciones de linux.
 
 ---
 
